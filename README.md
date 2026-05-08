@@ -3,8 +3,9 @@
 <img align="left" src="assets/lego.jpg" alt="icon" width="180" style="margin-right: 20px; margin-bottom: 8px;" />
 
 <p>Computer Science student and Junior Web Developer, with experience in Java, JavaScript, HTML, CSS, Spring Boot, Docker, PostgreSQL and MySQL.  
-  Focused on developing my skills and preparing for future challenges, while contributing to collaborative and impactful projects.</p>
+  Focused on developing my skills and preparing for future challenges, while contributing to collaborative and impactful projects.
 <img src="https://skillicons.dev/icons?i=java,spring,js,html,css,tailwind,angular,docker,postgres,linux,aws,kafka" />
+</p>
 
 ---
 
@@ -34,7 +35,7 @@ Provides endpoints for retrieving player statistics, teams, and related informat
 <h2 style="border-bottom: none; padding-bottom: 0;">Languages</h2>
 <ul>
   <li>Portuguese — Native</li>
-  <li>English — (B2)</li>
+  <li>English — (C2)</li>
 </ul>
 
 ---
