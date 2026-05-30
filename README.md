@@ -3,7 +3,9 @@
 <img align="left" src="assets/lego.jpg" alt="icon" width="180" style="margin-right: 20px; margin-bottom: 8px;" />
 
 <p>Passionate software developer focused on building modern web applications, data-driven platforms, and scalable solutions.
+
 Currently working on projects involving esports analytics, transforming large volumes of competitive gaming data into meaningful insights, visualizations, and performance metrics.
+
 My interests include full-stack development, cloud technologies, system design and data analysis. I enjoy solving complex problems, learning new technologies, and creating products that deliver real value to users.
 
 Always exploring better ways to write clean code, optimize performance, and build intuitive user experiences.
